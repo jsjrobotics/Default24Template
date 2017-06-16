@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/.idea/vcs.xml
+/*/gradle-build/
+/Build/exploded-aar/
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# generated files
+bin/
+gen/
+out/
+/Build/intermediates/
